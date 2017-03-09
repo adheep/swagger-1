@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   version: '1.0'
-  title: Starr Assist - Rating API
+  title: Inidividual Leisure Travel - Rating API
   description: |
     Get rates for the Starr Assist Travel plans. 
     
